@@ -1,1 +1,427 @@
-null
+{
+ "version": 1,
+ "id": "20261121130525",
+ "made": "21/11/2026 13:05",
+ "categories": [
+  {
+   "name": "Vegetables",
+   "items": [
+    {
+     "key": "Vegetables|aubergine",
+     "name": "aubergine",
+     "amount": "2 pcs"
+    },
+    {
+     "key": "Vegetables|avocado",
+     "name": "avocado",
+     "amount": "1.2 pcs"
+    },
+    {
+     "key": "Vegetables|basilicum",
+     "name": "basilicum",
+     "amount": ""
+    },
+    {
+     "key": "Vegetables|celder",
+     "name": "celder",
+     "amount": ""
+    },
+    {
+     "key": "Vegetables|courgette",
+     "name": "courgette",
+     "amount": "2 pcs"
+    },
+    {
+     "key": "Vegetables|gember",
+     "name": "gember",
+     "amount": ""
+    },
+    {
+     "key": "Vegetables|kers tomaten",
+     "name": "kers tomaten",
+     "amount": ""
+    },
+    {
+     "key": "Vegetables|knoflook",
+     "name": "knoflook",
+     "amount": "8.2 clove"
+    },
+    {
+     "key": "Vegetables|komkommer",
+     "name": "komkommer",
+     "amount": "0.8 pcs"
+    },
+    {
+     "key": "Vegetables|koriander",
+     "name": "koriander",
+     "amount": ""
+    },
+    {
+     "key": "Vegetables|lente-ui",
+     "name": "lente-ui",
+     "amount": "3.2 pcs"
+    },
+    {
+     "key": "Vegetables|munt",
+     "name": "munt",
+     "amount": ""
+    },
+    {
+     "key": "Vegetables|oregano (vers)",
+     "name": "oregano (vers)",
+     "amount": ""
+    },
+    {
+     "key": "Vegetables|paprika",
+     "name": "paprika",
+     "amount": "2 pcs"
+    },
+    {
+     "key": "Vegetables|rozemarijn (vers)",
+     "name": "rozemarijn (vers)",
+     "amount": ""
+    },
+    {
+     "key": "Vegetables|sla",
+     "name": "sla",
+     "amount": "0.8 pcs"
+    },
+    {
+     "key": "Vegetables|spinazie",
+     "name": "spinazie",
+     "amount": "332 g"
+    },
+    {
+     "key": "Vegetables|tomaten",
+     "name": "tomaten",
+     "amount": "11 pcs"
+    },
+    {
+     "key": "Vegetables|ui",
+     "name": "ui",
+     "amount": "2.8 pcs"
+    },
+    {
+     "key": "Vegetables|witloof",
+     "name": "witloof",
+     "amount": "3.6 pcs"
+    },
+    {
+     "key": "Vegetables|witte kool",
+     "name": "witte kool",
+     "amount": ""
+    },
+    {
+     "key": "Vegetables|wortellen",
+     "name": "wortellen",
+     "amount": ""
+    },
+    {
+     "key": "Vegetables|wortels",
+     "name": "wortels",
+     "amount": "4 pcs"
+    }
+   ]
+  },
+  {
+   "name": "Fruit",
+   "items": [
+    {
+     "key": "Fruit|limoen",
+     "name": "limoen",
+     "amount": "0.8 pcs"
+    }
+   ]
+  },
+  {
+   "name": "Meat",
+   "items": [
+    {
+     "key": "Meat|gehakt",
+     "name": "gehakt",
+     "amount": "632 g"
+    },
+    {
+     "key": "Meat|rundergehakt",
+     "name": "rundergehakt",
+     "amount": "1250 g"
+    },
+    {
+     "key": "Meat|saucisse",
+     "name": "saucisse",
+     "amount": "2 pcs"
+    },
+    {
+     "key": "Meat|spek",
+     "name": "spek",
+     "amount": "200 g + 4 pcs"
+    }
+   ]
+  },
+  {
+   "name": "Fish & Seafood",
+   "items": [
+    {
+     "key": "Fish & Seafood|scampi",
+     "name": "scampi",
+     "amount": "12 pcs"
+    }
+   ]
+  },
+  {
+   "name": "Dairy & Eggs",
+   "items": [
+    {
+     "key": "Dairy & Eggs|boter",
+     "name": "boter",
+     "amount": "75 g"
+    },
+    {
+     "key": "Dairy & Eggs|cheddar",
+     "name": "cheddar",
+     "amount": "2 pcs"
+    },
+    {
+     "key": "Dairy & Eggs|eieren",
+     "name": "eieren",
+     "amount": "2 pcs"
+    },
+    {
+     "key": "Dairy & Eggs|geraspte kaas",
+     "name": "geraspte kaas",
+     "amount": "500 g"
+    },
+    {
+     "key": "Dairy & Eggs|mascarpone",
+     "name": "mascarpone",
+     "amount": "168 g"
+    },
+    {
+     "key": "Dairy & Eggs|melk",
+     "name": "melk",
+     "amount": "1000 ml"
+    },
+    {
+     "key": "Dairy & Eggs|parmezaanse kaas",
+     "name": "Parmezaanse kaas",
+     "amount": "68 g"
+    },
+    {
+     "key": "Dairy & Eggs|room",
+     "name": "room",
+     "amount": "168 ml"
+    }
+   ]
+  },
+  {
+   "name": "Bread & Bakery",
+   "items": [
+    {
+     "key": "Bread & Bakery|buns",
+     "name": "buns",
+     "amount": "2 pcs"
+    }
+   ]
+  },
+  {
+   "name": "Pasta, Rice & Grains",
+   "items": [
+    {
+     "key": "Pasta, Rice & Grains|bloem",
+     "name": "bloem",
+     "amount": "75 g"
+    },
+    {
+     "key": "Pasta, Rice & Grains|lasagnevellen (pakje)",
+     "name": "lasagnevellen (pakje)",
+     "amount": "2 pcs"
+    },
+    {
+     "key": "Pasta, Rice & Grains|linzen",
+     "name": "linzen",
+     "amount": ""
+    },
+    {
+     "key": "Pasta, Rice & Grains|mihoen rijstnoedels",
+     "name": "mihoen rijstnoedels",
+     "amount": ""
+    },
+    {
+     "key": "Pasta, Rice & Grains|pasta",
+     "name": "pasta",
+     "amount": "532 g"
+    },
+    {
+     "key": "Pasta, Rice & Grains|rijstvellen",
+     "name": "rijstvellen",
+     "amount": "8 pcs"
+    }
+   ]
+  },
+  {
+   "name": "Spices & Condiments",
+   "items": [
+    {
+     "key": "Spices & Condiments|ajuin",
+     "name": "ajuin",
+     "amount": "0.4 pcs"
+    },
+    {
+     "key": "Spices & Condiments|azijn",
+     "name": "azijn",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|chilivlokken",
+     "name": "chilivlokken",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|groentebouiilon",
+     "name": "groentebouiilon",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|hoisinsaus",
+     "name": "hoisinsaus",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|honing",
+     "name": "honing",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|italiaanse kruiden",
+     "name": "Italiaanse kruiden",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|maizena",
+     "name": "maizena",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|nootmuskaat",
+     "name": "nootmuskaat",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|olijfolie",
+     "name": "olijfolie",
+     "amount": "x2"
+    },
+    {
+     "key": "Spices & Condiments|paprikapoeder",
+     "name": "paprikapoeder",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|pindakaas",
+     "name": "pindakaas",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|provençaalse kruiden",
+     "name": "Provençaalse kruiden",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|sojasaus",
+     "name": "sojasaus",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|sriracha",
+     "name": "sriracha",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|suiker",
+     "name": "suiker",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|tomaten pasta",
+     "name": "tomaten pasta",
+     "amount": ""
+    },
+    {
+     "key": "Spices & Condiments|zout",
+     "name": "zout",
+     "amount": "x3"
+    },
+    {
+     "key": "Spices & Condiments|zwarte peper",
+     "name": "zwarte peper",
+     "amount": "x2"
+    }
+   ]
+  },
+  {
+   "name": "Beverages",
+   "items": [
+    {
+     "key": "Beverages|rode wijn",
+     "name": "rode wijn",
+     "amount": "250 ml"
+    }
+   ]
+  },
+  {
+   "name": "Other",
+   "items": [
+    {
+     "key": "Other|curry",
+     "name": "curry",
+     "amount": ""
+    },
+    {
+     "key": "Other|passata",
+     "name": "passata",
+     "amount": "420 ml"
+    },
+    {
+     "key": "Other|peterselie",
+     "name": "peterselie",
+     "amount": ""
+    },
+    {
+     "key": "Other|rijst",
+     "name": "rijst",
+     "amount": ""
+    }
+   ]
+  }
+ ],
+ "meals": [
+  {
+   "title": "Day 1 · Dinner: Spring rolls (4 people)",
+   "ingredients": "scampi (12 pcs), rijstvellen (8 pcs), mihoen rijstnoedels, wortels (2 pcs), witte kool, lente-ui (3.2 pcs), komkommer (0.8 pcs), avocado (1.2 pcs), sla (0.8 pcs), koriander, munt, gember, knoflook (2 clove), limoen (0.8 pcs), pindakaas, hoisinsaus, sriracha, sojasaus, azijn, honing, suiker, maizena, chilivlokken, zout"
+  },
+  {
+   "title": "Day 2 · Dinner: Rijst tomaten (2 people)",
+   "ingredients": "rijst, tomaten (4 pcs), saucisse (2 pcs)"
+  },
+  {
+   "title": "Day 3 · Dinner: Witloof pasta (2 people)",
+   "ingredients": "pasta (200 g), witloof (3.6 pcs), spek (200 g), room, peterselie, curry"
+  },
+  {
+   "title": "Day 4 · Dinner: Pasta spinazie (4 people)",
+   "ingredients": "gehakt (332 g), pasta (332 g), spinazie (332 g), mascarpone (168 g), room (168 ml), Parmezaanse kaas (68 g), ui (0.8 pcs), knoflook (1.2 clove), Italiaanse kruiden, paprikapoeder, olijfolie, zout, zwarte peper"
+  },
+  {
+   "title": "Day 5 · Dinner: hamburgers (2 people)",
+   "ingredients": "buns (2 pcs), gehakt (300 g), kers tomaten, ajuin (0.4 pcs), cheddar (2 pcs), eieren (2 pcs), spek (4 pcs), Sla"
+  },
+  {
+   "title": "Day 6 · Dinner: linzensoep (4 people)",
+   "ingredients": "linzen, tomaten pasta, wortellen, celder, groentebouiilon, spek"
+  },
+  {
+   "title": "Day 7 · Dinner: Lasagne (10 people)",
+   "ingredients": "rundergehakt (1250 g), lasagnevellen (pakje) (2 pcs), tomaten (7 pcs), passata (420 ml), wortels (2 pcs), courgette (2 pcs), aubergine (2 pcs), paprika (2 pcs), ui (2 pcs), knoflook (5 clove), oregano (vers), basilicum, rozemarijn (vers), rode wijn (250 ml), boter (75 g), bloem (75 g), melk (1000 ml), geraspte kaas (500 g), olijfolie, Provençaalse kruiden, nootmuskaat, zout, zwarte peper"
+  }
+ ]
+}
