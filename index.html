@@ -60,11 +60,13 @@
   input[type=checkbox] { width: 24px; height: 24px; flex: none; margin: 0; accent-color: var(--accent); }
   .name { flex: 1; }
   .amt { color: var(--muted); font-size: 15px; white-space: nowrap; }
+  .dish { color: var(--muted); font-size: 13px; margin-left: 6px; opacity: .85; }
   input:checked ~ .name, input:checked ~ .amt { color: var(--done); text-decoration: line-through; }
+  input:checked ~ .name .dish { color: var(--done); }
   body.hide-done li.done { display: none; }
   body.hide-done section.all-done { display: none; }
   .empty { color: var(--muted); font-style: italic; margin-top: 18px; }
-  details { margin-top: 24px; background: var(--card); border: 1px solid var(--line);
+  details { margin-top: 14px; background: var(--card); border: 1px solid var(--line);
             border-radius: 10px; padding: 10px 14px; }
   summary { font-weight: 600; cursor: pointer; }
   .meal { margin-top: 10px; }
@@ -155,6 +157,18 @@
     }
     loadTicks();
     document.getElementById("made").textContent = "Made " + (list.made || "");
+    var meals = list.meals || [];
+    if (meals.length) {
+      var det = el("details");
+      det.appendChild(el("summary", null, "Meals in this plan"));
+      meals.forEach(function (m) {
+        var d = el("div", "meal");
+        d.appendChild(el("div", "meal-title", m.title));
+        d.appendChild(el("div", "meal-ing", m.ingredients || "(no ingredients recorded)"));
+        det.appendChild(d);
+      });
+      main.appendChild(det);
+    }
     var cats = list.categories || [];
     if (!cats.length) main.appendChild(el("p", "empty", "(you already have everything you need)"));
     cats.forEach(function (cat) {
@@ -169,7 +183,9 @@
           update(); saveTicks();
         });
         lab.appendChild(box);
-        lab.appendChild(el("span", "name", it.name));
+        var nameEl = el("span", "name", it.name);
+        if (it.dishes && it.dishes.length) nameEl.appendChild(el("span", "dish", it.dishes.join(", ")));
+        lab.appendChild(nameEl);
         lab.appendChild(el("span", "amt", it.amount || ""));
         li.appendChild(lab);
         ul.appendChild(li);
@@ -177,18 +193,6 @@
       sec.appendChild(ul);
       main.appendChild(sec);
     });
-    var meals = list.meals || [];
-    if (meals.length) {
-      var det = el("details");
-      det.appendChild(el("summary", null, "Meals in this plan"));
-      meals.forEach(function (m) {
-        var d = el("div", "meal");
-        d.appendChild(el("div", "meal-title", m.title));
-        d.appendChild(el("div", "meal-ing", m.ingredients || "(no ingredients recorded)"));
-        det.appendChild(d);
-      });
-      main.appendChild(det);
-    }
     update();
   }
 
