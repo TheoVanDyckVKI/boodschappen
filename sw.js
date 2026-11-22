@@ -1,7 +1,7 @@
 // Offline support: serve the page from cache when the network is slow or
 // absent. list.json and the GitHub API are never cached here (the page
 // keeps the last list in localStorage itself).
-var CACHE = "mp-shell-v2";
+var CACHE = "mp-shell-v3";
 var SHELL = ["./", "./index.html", "./manifest.webmanifest",
              "./apple-touch-icon.png", "./icon-512.png"];
 
