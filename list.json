@@ -1,7 +1,7 @@
 {
  "version": 1,
- "id": "20261121131623",
- "made": "21/11/2026 13:16",
+ "id": "20261122151749",
+ "made": "22/11/2026 15:17",
  "categories": [
   {
    "name": "Vegetables",
@@ -34,6 +34,11 @@
     {
      "key": "Vegetables|gember",
      "name": "gember",
+     "amount": ""
+    },
+    {
+     "key": "Vegetables|heloooooooooooooooooo",
+     "name": "heloooooooooooooooooo",
      "amount": ""
     },
     {
