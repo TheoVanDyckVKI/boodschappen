@@ -1,16 +1,11 @@
 {
  "version": 1,
- "id": "20261122151749",
- "made": "22/11/2026 15:17",
+ "id": "20261122151834",
+ "made": "22/11/2026 15:18",
  "categories": [
   {
    "name": "Vegetables",
    "items": [
-    {
-     "key": "Vegetables|aubergine",
-     "name": "aubergine",
-     "amount": "2 pcs"
-    },
     {
      "key": "Vegetables|avocado",
      "name": "avocado",
@@ -34,11 +29,6 @@
     {
      "key": "Vegetables|gember",
      "name": "gember",
-     "amount": ""
-    },
-    {
-     "key": "Vegetables|heloooooooooooooooooo",
-     "name": "heloooooooooooooooooo",
      "amount": ""
     },
     {
