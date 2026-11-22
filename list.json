@@ -1,7 +1,7 @@
 {
  "version": 1,
- "id": "20261122151834",
- "made": "22/11/2026 15:18",
+ "id": "20261122152524",
+ "made": "22/11/2026 15:25",
  "categories": [
   {
    "name": "Vegetables",
@@ -9,112 +9,184 @@
     {
      "key": "Vegetables|avocado",
      "name": "avocado",
-     "amount": "1.2 pcs"
+     "amount": "1.2 pcs",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Vegetables|basilicum",
      "name": "basilicum",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Vegetables|celder",
      "name": "celder",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "linzensoep"
+     ]
     },
     {
      "key": "Vegetables|courgette",
      "name": "courgette",
-     "amount": "2 pcs"
+     "amount": "2 pcs",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Vegetables|gember",
      "name": "gember",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Vegetables|kers tomaten",
      "name": "kers tomaten",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "hamburgers"
+     ]
     },
     {
      "key": "Vegetables|knoflook",
      "name": "knoflook",
-     "amount": "8.2 clove"
+     "amount": "8.2 clove",
+     "dishes": [
+      "Spring rolls",
+      "Pasta spinazie",
+      "Lasagne"
+     ]
     },
     {
      "key": "Vegetables|komkommer",
      "name": "komkommer",
-     "amount": "0.8 pcs"
+     "amount": "0.8 pcs",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Vegetables|koriander",
      "name": "koriander",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Vegetables|lente-ui",
      "name": "lente-ui",
-     "amount": "3.2 pcs"
+     "amount": "3.2 pcs",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Vegetables|munt",
      "name": "munt",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Vegetables|oregano (vers)",
      "name": "oregano (vers)",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Vegetables|paprika",
      "name": "paprika",
-     "amount": "2 pcs"
+     "amount": "2 pcs",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Vegetables|rozemarijn (vers)",
      "name": "rozemarijn (vers)",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Vegetables|sla",
      "name": "sla",
-     "amount": "0.8 pcs"
+     "amount": "0.8 pcs",
+     "dishes": [
+      "Spring rolls",
+      "hamburgers"
+     ]
     },
     {
      "key": "Vegetables|spinazie",
      "name": "spinazie",
-     "amount": "332 g"
+     "amount": "332 g",
+     "dishes": [
+      "Pasta spinazie"
+     ]
     },
     {
      "key": "Vegetables|tomaten",
      "name": "tomaten",
-     "amount": "11 pcs"
+     "amount": "11 pcs",
+     "dishes": [
+      "Rijst tomaten",
+      "Lasagne"
+     ]
     },
     {
      "key": "Vegetables|ui",
      "name": "ui",
-     "amount": "2.8 pcs"
+     "amount": "2.8 pcs",
+     "dishes": [
+      "Pasta spinazie",
+      "Lasagne"
+     ]
     },
     {
      "key": "Vegetables|witloof",
      "name": "witloof",
-     "amount": "3.6 pcs"
+     "amount": "3.6 pcs",
+     "dishes": [
+      "Witloof pasta"
+     ]
     },
     {
      "key": "Vegetables|witte kool",
      "name": "witte kool",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Vegetables|wortellen",
      "name": "wortellen",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "linzensoep"
+     ]
     },
     {
      "key": "Vegetables|wortels",
      "name": "wortels",
-     "amount": "4 pcs"
+     "amount": "4 pcs",
+     "dishes": [
+      "Spring rolls",
+      "Lasagne"
+     ]
     }
    ]
   },
@@ -124,7 +196,10 @@
     {
      "key": "Fruit|limoen",
      "name": "limoen",
-     "amount": "0.8 pcs"
+     "amount": "0.8 pcs",
+     "dishes": [
+      "Spring rolls"
+     ]
     }
    ]
   },
@@ -134,22 +209,37 @@
     {
      "key": "Meat|gehakt",
      "name": "gehakt",
-     "amount": "632 g"
+     "amount": "632 g",
+     "dishes": [
+      "Pasta spinazie",
+      "hamburgers"
+     ]
     },
     {
      "key": "Meat|rundergehakt",
      "name": "rundergehakt",
-     "amount": "1250 g"
+     "amount": "1250 g",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Meat|saucisse",
      "name": "saucisse",
-     "amount": "2 pcs"
+     "amount": "2 pcs",
+     "dishes": [
+      "Rijst tomaten"
+     ]
     },
     {
      "key": "Meat|spek",
      "name": "spek",
-     "amount": "200 g + 4 pcs"
+     "amount": "200 g + 4 pcs",
+     "dishes": [
+      "Witloof pasta",
+      "hamburgers",
+      "linzensoep"
+     ]
     }
    ]
   },
@@ -159,7 +249,10 @@
     {
      "key": "Fish & Seafood|scampi",
      "name": "scampi",
-     "amount": "12 pcs"
+     "amount": "12 pcs",
+     "dishes": [
+      "Spring rolls"
+     ]
     }
    ]
   },
@@ -169,42 +262,67 @@
     {
      "key": "Dairy & Eggs|boter",
      "name": "boter",
-     "amount": "75 g"
+     "amount": "75 g",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Dairy & Eggs|cheddar",
      "name": "cheddar",
-     "amount": "2 pcs"
+     "amount": "2 pcs",
+     "dishes": [
+      "hamburgers"
+     ]
     },
     {
      "key": "Dairy & Eggs|eieren",
      "name": "eieren",
-     "amount": "2 pcs"
+     "amount": "2 pcs",
+     "dishes": [
+      "hamburgers"
+     ]
     },
     {
      "key": "Dairy & Eggs|geraspte kaas",
      "name": "geraspte kaas",
-     "amount": "500 g"
+     "amount": "500 g",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Dairy & Eggs|mascarpone",
      "name": "mascarpone",
-     "amount": "168 g"
+     "amount": "168 g",
+     "dishes": [
+      "Pasta spinazie"
+     ]
     },
     {
      "key": "Dairy & Eggs|melk",
      "name": "melk",
-     "amount": "1000 ml"
+     "amount": "1000 ml",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Dairy & Eggs|parmezaanse kaas",
      "name": "Parmezaanse kaas",
-     "amount": "68 g"
+     "amount": "68 g",
+     "dishes": [
+      "Pasta spinazie"
+     ]
     },
     {
      "key": "Dairy & Eggs|room",
      "name": "room",
-     "amount": "168 ml"
+     "amount": "168 ml",
+     "dishes": [
+      "Witloof pasta",
+      "Pasta spinazie"
+     ]
     }
    ]
   },
@@ -214,7 +332,10 @@
     {
      "key": "Bread & Bakery|buns",
      "name": "buns",
-     "amount": "2 pcs"
+     "amount": "2 pcs",
+     "dishes": [
+      "hamburgers"
+     ]
     }
    ]
   },
@@ -224,32 +345,51 @@
     {
      "key": "Pasta, Rice & Grains|bloem",
      "name": "bloem",
-     "amount": "75 g"
+     "amount": "75 g",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Pasta, Rice & Grains|lasagnevellen (pakje)",
      "name": "lasagnevellen (pakje)",
-     "amount": "2 pcs"
+     "amount": "2 pcs",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Pasta, Rice & Grains|linzen",
      "name": "linzen",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "linzensoep"
+     ]
     },
     {
      "key": "Pasta, Rice & Grains|mihoen rijstnoedels",
      "name": "mihoen rijstnoedels",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Pasta, Rice & Grains|pasta",
      "name": "pasta",
-     "amount": "532 g"
+     "amount": "532 g",
+     "dishes": [
+      "Witloof pasta",
+      "Pasta spinazie"
+     ]
     },
     {
      "key": "Pasta, Rice & Grains|rijstvellen",
      "name": "rijstvellen",
-     "amount": "8 pcs"
+     "amount": "8 pcs",
+     "dishes": [
+      "Spring rolls"
+     ]
     }
    ]
   },
@@ -259,97 +399,158 @@
     {
      "key": "Spices & Condiments|ajuin",
      "name": "ajuin",
-     "amount": "0.4 pcs"
+     "amount": "0.4 pcs",
+     "dishes": [
+      "hamburgers"
+     ]
     },
     {
      "key": "Spices & Condiments|azijn",
      "name": "azijn",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Spices & Condiments|chilivlokken",
      "name": "chilivlokken",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Spices & Condiments|groentebouiilon",
      "name": "groentebouiilon",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "linzensoep"
+     ]
     },
     {
      "key": "Spices & Condiments|hoisinsaus",
      "name": "hoisinsaus",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Spices & Condiments|honing",
      "name": "honing",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Spices & Condiments|italiaanse kruiden",
      "name": "Italiaanse kruiden",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Pasta spinazie"
+     ]
     },
     {
      "key": "Spices & Condiments|maizena",
      "name": "maizena",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Spices & Condiments|nootmuskaat",
      "name": "nootmuskaat",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Spices & Condiments|olijfolie",
      "name": "olijfolie",
-     "amount": "x2"
+     "amount": "x2",
+     "dishes": [
+      "Pasta spinazie",
+      "Lasagne"
+     ]
     },
     {
      "key": "Spices & Condiments|paprikapoeder",
      "name": "paprikapoeder",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Pasta spinazie"
+     ]
     },
     {
      "key": "Spices & Condiments|pindakaas",
      "name": "pindakaas",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Spices & Condiments|provençaalse kruiden",
      "name": "Provençaalse kruiden",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Spices & Condiments|sojasaus",
      "name": "sojasaus",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Spices & Condiments|sriracha",
      "name": "sriracha",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Spices & Condiments|suiker",
      "name": "suiker",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Spring rolls"
+     ]
     },
     {
      "key": "Spices & Condiments|tomaten pasta",
      "name": "tomaten pasta",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "linzensoep"
+     ]
     },
     {
      "key": "Spices & Condiments|zout",
      "name": "zout",
-     "amount": "x3"
+     "amount": "x3",
+     "dishes": [
+      "Spring rolls",
+      "Pasta spinazie",
+      "Lasagne"
+     ]
     },
     {
      "key": "Spices & Condiments|zwarte peper",
      "name": "zwarte peper",
-     "amount": "x2"
+     "amount": "x2",
+     "dishes": [
+      "Pasta spinazie",
+      "Lasagne"
+     ]
     }
    ]
   },
@@ -359,7 +560,10 @@
     {
      "key": "Beverages|rode wijn",
      "name": "rode wijn",
-     "amount": "250 ml"
+     "amount": "250 ml",
+     "dishes": [
+      "Lasagne"
+     ]
     }
    ]
   },
@@ -369,22 +573,34 @@
     {
      "key": "Other|curry",
      "name": "curry",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Witloof pasta"
+     ]
     },
     {
      "key": "Other|passata",
      "name": "passata",
-     "amount": "420 ml"
+     "amount": "420 ml",
+     "dishes": [
+      "Lasagne"
+     ]
     },
     {
      "key": "Other|peterselie",
      "name": "peterselie",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Witloof pasta"
+     ]
     },
     {
      "key": "Other|rijst",
      "name": "rijst",
-     "amount": ""
+     "amount": "",
+     "dishes": [
+      "Rijst tomaten"
+     ]
     }
    ]
   }
