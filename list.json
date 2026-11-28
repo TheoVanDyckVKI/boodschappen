@@ -1,7 +1,7 @@
 {
  "version": 1,
- "id": "20261128133221",
- "made": "28/11/2026 13:32",
+ "id": "20261128144356",
+ "made": "28/11/2026 14:43",
  "categories": [
   {
    "name": "Vegetables",
@@ -43,6 +43,12 @@
       "hamburgers",
       "arayes"
      ]
+    },
+    {
+     "key": "Meat|gehakt, lasagne 1kg",
+     "name": "Gehakt, Lasagne 1kg",
+     "amount": "",
+     "dishes": []
     },
     {
      "key": "Meat|schnitzel",
@@ -247,6 +253,12 @@
      "dishes": [
       "arayes"
      ]
+    },
+    {
+     "key": "Other|bakpapier",
+     "name": "Bakpapier",
+     "amount": "",
+     "dishes": []
     },
     {
      "key": "Other|citroen",
