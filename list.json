@@ -1,51 +1,11 @@
 {
  "version": 1,
- "id": "20261122152524",
- "made": "22/11/2026 15:25",
+ "id": "20261128133038",
+ "made": "28/11/2026 13:30",
  "categories": [
   {
    "name": "Vegetables",
    "items": [
-    {
-     "key": "Vegetables|avocado",
-     "name": "avocado",
-     "amount": "1.2 pcs",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Vegetables|basilicum",
-     "name": "basilicum",
-     "amount": "",
-     "dishes": [
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Vegetables|celder",
-     "name": "celder",
-     "amount": "",
-     "dishes": [
-      "linzensoep"
-     ]
-    },
-    {
-     "key": "Vegetables|courgette",
-     "name": "courgette",
-     "amount": "2 pcs",
-     "dishes": [
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Vegetables|gember",
-     "name": "gember",
-     "amount": "",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
     {
      "key": "Vegetables|kers tomaten",
      "name": "kers tomaten",
@@ -55,150 +15,19 @@
      ]
     },
     {
-     "key": "Vegetables|knoflook",
-     "name": "knoflook",
-     "amount": "8.2 clove",
-     "dishes": [
-      "Spring rolls",
-      "Pasta spinazie",
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Vegetables|komkommer",
-     "name": "komkommer",
-     "amount": "0.8 pcs",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Vegetables|koriander",
-     "name": "koriander",
+     "key": "Vegetables|oven gebakken tomaatjes",
+     "name": "Oven gebakken tomaatjes",
      "amount": "",
      "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Vegetables|lente-ui",
-     "name": "lente-ui",
-     "amount": "3.2 pcs",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Vegetables|munt",
-     "name": "munt",
-     "amount": "",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Vegetables|oregano (vers)",
-     "name": "oregano (vers)",
-     "amount": "",
-     "dishes": [
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Vegetables|paprika",
-     "name": "paprika",
-     "amount": "2 pcs",
-     "dishes": [
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Vegetables|rozemarijn (vers)",
-     "name": "rozemarijn (vers)",
-     "amount": "",
-     "dishes": [
-      "Lasagne"
+      "Zalm patatjes"
      ]
     },
     {
      "key": "Vegetables|sla",
-     "name": "sla",
-     "amount": "0.8 pcs",
+     "name": "Sla",
+     "amount": "",
      "dishes": [
-      "Spring rolls",
       "hamburgers"
-     ]
-    },
-    {
-     "key": "Vegetables|spinazie",
-     "name": "spinazie",
-     "amount": "332 g",
-     "dishes": [
-      "Pasta spinazie"
-     ]
-    },
-    {
-     "key": "Vegetables|tomaten",
-     "name": "tomaten",
-     "amount": "11 pcs",
-     "dishes": [
-      "Rijst tomaten",
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Vegetables|ui",
-     "name": "ui",
-     "amount": "2.8 pcs",
-     "dishes": [
-      "Pasta spinazie",
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Vegetables|witloof",
-     "name": "witloof",
-     "amount": "3.6 pcs",
-     "dishes": [
-      "Witloof pasta"
-     ]
-    },
-    {
-     "key": "Vegetables|witte kool",
-     "name": "witte kool",
-     "amount": "",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Vegetables|wortellen",
-     "name": "wortellen",
-     "amount": "",
-     "dishes": [
-      "linzensoep"
-     ]
-    },
-    {
-     "key": "Vegetables|wortels",
-     "name": "wortels",
-     "amount": "4 pcs",
-     "dishes": [
-      "Spring rolls",
-      "Lasagne"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Fruit",
-   "items": [
-    {
-     "key": "Fruit|limoen",
-     "name": "limoen",
-     "amount": "0.8 pcs",
-     "dishes": [
-      "Spring rolls"
      ]
     }
    ]
@@ -209,36 +38,26 @@
     {
      "key": "Meat|gehakt",
      "name": "gehakt",
-     "amount": "632 g",
+     "amount": "660 g",
      "dishes": [
-      "Pasta spinazie",
-      "hamburgers"
+      "hamburgers",
+      "arayes"
      ]
     },
     {
-     "key": "Meat|rundergehakt",
-     "name": "rundergehakt",
-     "amount": "1250 g",
-     "dishes": [
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Meat|saucisse",
-     "name": "saucisse",
+     "key": "Meat|schnitzel",
+     "name": "schnitzel",
      "amount": "2 pcs",
      "dishes": [
-      "Rijst tomaten"
+      "pasta pesto rosso"
      ]
     },
     {
      "key": "Meat|spek",
      "name": "spek",
-     "amount": "200 g + 4 pcs",
+     "amount": "4 pcs",
      "dishes": [
-      "Witloof pasta",
-      "hamburgers",
-      "linzensoep"
+      "hamburgers"
      ]
     }
    ]
@@ -247,11 +66,11 @@
    "name": "Fish & Seafood",
    "items": [
     {
-     "key": "Fish & Seafood|scampi",
-     "name": "scampi",
-     "amount": "12 pcs",
+     "key": "Fish & Seafood|zalm",
+     "name": "Zalm",
+     "amount": "2 pcs",
      "dishes": [
-      "Spring rolls"
+      "Zalm patatjes"
      ]
     }
    ]
@@ -260,12 +79,10 @@
    "name": "Dairy & Eggs",
    "items": [
     {
-     "key": "Dairy & Eggs|boter",
-     "name": "boter",
-     "amount": "75 g",
-     "dishes": [
-      "Lasagne"
-     ]
+     "key": "Dairy & Eggs|burrata",
+     "name": "burrata",
+     "amount": "",
+     "dishes": []
     },
     {
      "key": "Dairy & Eggs|cheddar",
@@ -284,45 +101,44 @@
      ]
     },
     {
-     "key": "Dairy & Eggs|geraspte kaas",
-     "name": "geraspte kaas",
-     "amount": "500 g",
-     "dishes": [
-      "Lasagne"
-     ]
+     "key": "Dairy & Eggs|lange vingers",
+     "name": "lange vingers",
+     "amount": "",
+     "dishes": []
     },
     {
      "key": "Dairy & Eggs|mascarpone",
-     "name": "mascarpone",
-     "amount": "168 g",
-     "dishes": [
-      "Pasta spinazie"
-     ]
+     "name": "Mascarpone",
+     "amount": "",
+     "dishes": []
     },
     {
      "key": "Dairy & Eggs|melk",
      "name": "melk",
-     "amount": "1000 ml",
-     "dishes": [
-      "Lasagne"
-     ]
+     "amount": "",
+     "dishes": []
     },
     {
-     "key": "Dairy & Eggs|parmezaanse kaas",
-     "name": "Parmezaanse kaas",
-     "amount": "68 g",
+     "key": "Dairy & Eggs|parmiaggiano",
+     "name": "parmiaggiano",
+     "amount": "",
      "dishes": [
-      "Pasta spinazie"
+      "pasta pesto rosso"
      ]
     },
     {
      "key": "Dairy & Eggs|room",
      "name": "room",
-     "amount": "168 ml",
+     "amount": "",
      "dishes": [
-      "Witloof pasta",
-      "Pasta spinazie"
+      "Zalm patatjes"
      ]
+    },
+    {
+     "key": "Dairy & Eggs|ui",
+     "name": "ui",
+     "amount": "",
+     "dishes": []
     }
    ]
   },
@@ -336,6 +152,14 @@
      "dishes": [
       "hamburgers"
      ]
+    },
+    {
+     "key": "Bread & Bakery|pita brood",
+     "name": "pita brood",
+     "amount": "2 pcs",
+     "dishes": [
+      "arayes"
+     ]
     }
    ]
   },
@@ -343,52 +167,11 @@
    "name": "Pasta, Rice & Grains",
    "items": [
     {
-     "key": "Pasta, Rice & Grains|bloem",
-     "name": "bloem",
-     "amount": "75 g",
-     "dishes": [
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Pasta, Rice & Grains|lasagnevellen (pakje)",
-     "name": "lasagnevellen (pakje)",
-     "amount": "2 pcs",
-     "dishes": [
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Pasta, Rice & Grains|linzen",
-     "name": "linzen",
-     "amount": "",
-     "dishes": [
-      "linzensoep"
-     ]
-    },
-    {
-     "key": "Pasta, Rice & Grains|mihoen rijstnoedels",
-     "name": "mihoen rijstnoedels",
-     "amount": "",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
      "key": "Pasta, Rice & Grains|pasta",
      "name": "pasta",
-     "amount": "532 g",
+     "amount": "200 g",
      "dishes": [
-      "Witloof pasta",
-      "Pasta spinazie"
-     ]
-    },
-    {
-     "key": "Pasta, Rice & Grains|rijstvellen",
-     "name": "rijstvellen",
-     "amount": "8 pcs",
-     "dishes": [
-      "Spring rolls"
+      "pasta pesto rosso"
      ]
     }
    ]
@@ -405,164 +188,51 @@
      ]
     },
     {
-     "key": "Spices & Condiments|azijn",
-     "name": "azijn",
+     "key": "Spices & Condiments|dragon",
+     "name": "Dragon",
      "amount": "",
      "dishes": [
-      "Spring rolls"
+      "Zalm patatjes"
      ]
     },
     {
-     "key": "Spices & Condiments|chilivlokken",
-     "name": "chilivlokken",
+     "key": "Spices & Condiments|geroosterde patatjes",
+     "name": "Geroosterde patatjes",
      "amount": "",
      "dishes": [
-      "Spring rolls"
+      "Zalm patatjes"
      ]
     },
     {
-     "key": "Spices & Condiments|groentebouiilon",
-     "name": "groentebouiilon",
+     "key": "Spices & Condiments|mosterd",
+     "name": "Mosterd",
      "amount": "",
      "dishes": [
-      "linzensoep"
+      "Zalm patatjes"
      ]
     },
     {
-     "key": "Spices & Condiments|hoisinsaus",
-     "name": "hoisinsaus",
+     "key": "Spices & Condiments|peper",
+     "name": "Peper",
      "amount": "",
      "dishes": [
-      "Spring rolls"
+      "Zalm patatjes"
      ]
     },
     {
-     "key": "Spices & Condiments|honing",
-     "name": "honing",
+     "key": "Spices & Condiments|pesto rosso",
+     "name": "pesto rosso",
      "amount": "",
      "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|italiaanse kruiden",
-     "name": "Italiaanse kruiden",
-     "amount": "",
-     "dishes": [
-      "Pasta spinazie"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|maizena",
-     "name": "maizena",
-     "amount": "",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|nootmuskaat",
-     "name": "nootmuskaat",
-     "amount": "",
-     "dishes": [
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|olijfolie",
-     "name": "olijfolie",
-     "amount": "x2",
-     "dishes": [
-      "Pasta spinazie",
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|paprikapoeder",
-     "name": "paprikapoeder",
-     "amount": "",
-     "dishes": [
-      "Pasta spinazie"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|pindakaas",
-     "name": "pindakaas",
-     "amount": "",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|provençaalse kruiden",
-     "name": "Provençaalse kruiden",
-     "amount": "",
-     "dishes": [
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|sojasaus",
-     "name": "sojasaus",
-     "amount": "",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|sriracha",
-     "name": "sriracha",
-     "amount": "",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|suiker",
-     "name": "suiker",
-     "amount": "",
-     "dishes": [
-      "Spring rolls"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|tomaten pasta",
-     "name": "tomaten pasta",
-     "amount": "",
-     "dishes": [
-      "linzensoep"
+      "pasta pesto rosso"
      ]
     },
     {
      "key": "Spices & Condiments|zout",
-     "name": "zout",
-     "amount": "x3",
+     "name": "Zout",
+     "amount": "",
      "dishes": [
-      "Spring rolls",
-      "Pasta spinazie",
-      "Lasagne"
-     ]
-    },
-    {
-     "key": "Spices & Condiments|zwarte peper",
-     "name": "zwarte peper",
-     "amount": "x2",
-     "dishes": [
-      "Pasta spinazie",
-      "Lasagne"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Beverages",
-   "items": [
-    {
-     "key": "Beverages|rode wijn",
-     "name": "rode wijn",
-     "amount": "250 ml",
-     "dishes": [
-      "Lasagne"
+      "Zalm patatjes"
      ]
     }
    ]
@@ -571,19 +241,83 @@
    "name": "Other",
    "items": [
     {
-     "key": "Other|curry",
-     "name": "curry",
+     "key": "Other|allspice",
+     "name": "allspice",
      "amount": "",
      "dishes": [
-      "Witloof pasta"
+      "arayes"
      ]
     },
     {
-     "key": "Other|passata",
-     "name": "passata",
-     "amount": "420 ml",
+     "key": "Other|citroen",
+     "name": "citroen",
+     "amount": "",
      "dishes": [
-      "Lasagne"
+      "arayes"
+     ]
+    },
+    {
+     "key": "Other|coriander",
+     "name": "coriander",
+     "amount": "",
+     "dishes": [
+      "arayes"
+     ]
+    },
+    {
+     "key": "Other|fishsticks",
+     "name": "fishsticks",
+     "amount": "",
+     "dishes": [
+      "puree fishsticks"
+     ]
+    },
+    {
+     "key": "Other|gele ui",
+     "name": "gele ui",
+     "amount": "",
+     "dishes": [
+      "arayes"
+     ]
+    },
+    {
+     "key": "Other|griekse yoghurt",
+     "name": "griekse yoghurt",
+     "amount": "",
+     "dishes": [
+      "arayes"
+     ]
+    },
+    {
+     "key": "Other|komijn",
+     "name": "komijn",
+     "amount": "",
+     "dishes": [
+      "arayes"
+     ]
+    },
+    {
+     "key": "Other|look",
+     "name": "look",
+     "amount": "",
+     "dishes": [
+      "arayes"
+     ]
+    },
+    {
+     "key": "Other|olifj olie",
+     "name": "olifj olie",
+     "amount": "",
+     "dishes": [
+      "arayes"
+     ]
+    },
+    {
+     "key": "Other|patatjes",
+     "name": "patatjes",
+     "amount": "",
+     "dishes": [
+      "puree fishsticks"
      ]
     },
     {
@@ -591,48 +325,62 @@
      "name": "peterselie",
      "amount": "",
      "dishes": [
-      "Witloof pasta"
+      "arayes"
      ]
     },
     {
-     "key": "Other|rijst",
-     "name": "rijst",
+     "key": "Other|spinazie",
+     "name": "spinazie",
      "amount": "",
      "dishes": [
-      "Rijst tomaten"
+      "puree fishsticks"
      ]
+    },
+    {
+     "key": "Other|tahini",
+     "name": "tahini",
+     "amount": "",
+     "dishes": [
+      "arayes"
+     ]
+    },
+    {
+     "key": "Other|tomaat pasta",
+     "name": "tomaat pasta",
+     "amount": "",
+     "dishes": [
+      "arayes"
+     ]
+    },
+    {
+     "key": "Other|wasmachine tabletten",
+     "name": "Wasmachine tabletten",
+     "amount": "",
+     "dishes": []
     }
    ]
   }
  ],
  "meals": [
   {
-   "title": "Day 1 · Dinner: Spring rolls (4 people)",
-   "ingredients": "scampi (12 pcs), rijstvellen (8 pcs), mihoen rijstnoedels, wortels (2 pcs), witte kool, lente-ui (3.2 pcs), komkommer (0.8 pcs), avocado (1.2 pcs), sla (0.8 pcs), koriander, munt, gember, knoflook (2 clove), limoen (0.8 pcs), pindakaas, hoisinsaus, sriracha, sojasaus, azijn, honing, suiker, maizena, chilivlokken, zout"
-  },
-  {
-   "title": "Day 2 · Dinner: Rijst tomaten (2 people)",
-   "ingredients": "rijst, tomaten (4 pcs), saucisse (2 pcs)"
-  },
-  {
-   "title": "Day 3 · Dinner: Witloof pasta (2 people)",
-   "ingredients": "pasta (200 g), witloof (3.6 pcs), spek (200 g), room, peterselie, curry"
-  },
-  {
-   "title": "Day 4 · Dinner: Pasta spinazie (4 people)",
-   "ingredients": "gehakt (332 g), pasta (332 g), spinazie (332 g), mascarpone (168 g), room (168 ml), Parmezaanse kaas (68 g), ui (0.8 pcs), knoflook (1.2 clove), Italiaanse kruiden, paprikapoeder, olijfolie, zout, zwarte peper"
-  },
-  {
-   "title": "Day 5 · Dinner: hamburgers (2 people)",
+   "title": "Day 1 · Dinner: hamburgers (2 people)",
    "ingredients": "buns (2 pcs), gehakt (300 g), kers tomaten, ajuin (0.4 pcs), cheddar (2 pcs), eieren (2 pcs), spek (4 pcs), Sla"
   },
   {
-   "title": "Day 6 · Dinner: linzensoep (4 people)",
-   "ingredients": "linzen, tomaten pasta, wortellen, celder, groentebouiilon, spek"
+   "title": "Day 2 · Dinner: pasta pesto rosso (2 people)",
+   "ingredients": "pasta (200 g), pesto rosso, schnitzel (2 pcs), parmiaggiano"
   },
   {
-   "title": "Day 7 · Dinner: Lasagne (10 people)",
-   "ingredients": "rundergehakt (1250 g), lasagnevellen (pakje) (2 pcs), tomaten (7 pcs), passata (420 ml), wortels (2 pcs), courgette (2 pcs), aubergine (2 pcs), paprika (2 pcs), ui (2 pcs), knoflook (5 clove), oregano (vers), basilicum, rozemarijn (vers), rode wijn (250 ml), boter (75 g), bloem (75 g), melk (1000 ml), geraspte kaas (500 g), olijfolie, Provençaalse kruiden, nootmuskaat, zout, zwarte peper"
+   "title": "Day 3 · Dinner: arayes (2 people)",
+   "ingredients": "gele ui, look, tomaat pasta, peterselie, coriander, olifj olie, gehakt (360 g), allspice, griekse yoghurt, tahini, citroen, komijn, pita brood (2 pcs)"
+  },
+  {
+   "title": "Day 4 · Dinner: puree fishsticks (2 people)",
+   "ingredients": "patatjes, fishsticks, spinazie"
+  },
+  {
+   "title": "Day 5 · Dinner: Zalm patatjes (2 people)",
+   "ingredients": "Zalm (2 pcs), Geroosterde patatjes, room, Mosterd, Zout, Peper, Dragon, Oven gebakken tomaatjes"
   }
  ]
 }
