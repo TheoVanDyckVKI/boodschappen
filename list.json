@@ -1,7 +1,7 @@
 {
  "version": 1,
- "id": "20261128133038",
- "made": "28/11/2026 13:30",
+ "id": "20261128133221",
+ "made": "28/11/2026 13:32",
  "categories": [
   {
    "name": "Vegetables",
@@ -38,7 +38,7 @@
     {
      "key": "Meat|gehakt",
      "name": "gehakt",
-     "amount": "660 g",
+     "amount": "1530 g",
      "dishes": [
       "hamburgers",
       "arayes"
@@ -47,7 +47,7 @@
     {
      "key": "Meat|schnitzel",
      "name": "schnitzel",
-     "amount": "2 pcs",
+     "amount": "4 pcs",
      "dishes": [
       "pasta pesto rosso"
      ]
@@ -55,7 +55,7 @@
     {
      "key": "Meat|spek",
      "name": "spek",
-     "amount": "4 pcs",
+     "amount": "6 pcs",
      "dishes": [
       "hamburgers"
      ]
@@ -87,7 +87,7 @@
     {
      "key": "Dairy & Eggs|cheddar",
      "name": "cheddar",
-     "amount": "2 pcs",
+     "amount": "3 pcs",
      "dishes": [
       "hamburgers"
      ]
@@ -95,7 +95,7 @@
     {
      "key": "Dairy & Eggs|eieren",
      "name": "eieren",
-     "amount": "2 pcs",
+     "amount": "3 pcs",
      "dishes": [
       "hamburgers"
      ]
@@ -148,7 +148,7 @@
     {
      "key": "Bread & Bakery|buns",
      "name": "buns",
-     "amount": "2 pcs",
+     "amount": "3 pcs",
      "dishes": [
       "hamburgers"
      ]
@@ -156,7 +156,7 @@
     {
      "key": "Bread & Bakery|pita brood",
      "name": "pita brood",
-     "amount": "2 pcs",
+     "amount": "6 pcs",
      "dishes": [
       "arayes"
      ]
@@ -169,7 +169,7 @@
     {
      "key": "Pasta, Rice & Grains|pasta",
      "name": "pasta",
-     "amount": "200 g",
+     "amount": "400 g",
      "dishes": [
       "pasta pesto rosso"
      ]
@@ -182,7 +182,7 @@
     {
      "key": "Spices & Condiments|ajuin",
      "name": "ajuin",
-     "amount": "0.4 pcs",
+     "amount": "0.6 pcs",
      "dishes": [
       "hamburgers"
      ]
@@ -363,19 +363,19 @@
  ],
  "meals": [
   {
-   "title": "Day 1 · Dinner: hamburgers (2 people)",
-   "ingredients": "buns (2 pcs), gehakt (300 g), kers tomaten, ajuin (0.4 pcs), cheddar (2 pcs), eieren (2 pcs), spek (4 pcs), Sla"
+   "title": "Day 1 · Dinner: hamburgers (3 people)",
+   "ingredients": "buns (3 pcs), gehakt (450 g), kers tomaten, ajuin (0.6 pcs), cheddar (3 pcs), eieren (3 pcs), spek (6 pcs), Sla"
   },
   {
-   "title": "Day 2 · Dinner: pasta pesto rosso (2 people)",
-   "ingredients": "pasta (200 g), pesto rosso, schnitzel (2 pcs), parmiaggiano"
+   "title": "Day 2 · Dinner: pasta pesto rosso (4 people)",
+   "ingredients": "pasta (400 g), pesto rosso, schnitzel (4 pcs), parmiaggiano"
   },
   {
-   "title": "Day 3 · Dinner: arayes (2 people)",
-   "ingredients": "gele ui, look, tomaat pasta, peterselie, coriander, olifj olie, gehakt (360 g), allspice, griekse yoghurt, tahini, citroen, komijn, pita brood (2 pcs)"
+   "title": "Day 3 · Dinner: arayes (6 people)",
+   "ingredients": "gele ui, look, tomaat pasta, peterselie, coriander, olifj olie, gehakt (1080 g), allspice, griekse yoghurt, tahini, citroen, komijn, pita brood (6 pcs)"
   },
   {
-   "title": "Day 4 · Dinner: puree fishsticks (2 people)",
+   "title": "Day 4 · Dinner: puree fishsticks (4 people)",
    "ingredients": "patatjes, fishsticks, spinazie"
   },
   {
